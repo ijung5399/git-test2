@@ -1,0 +1,2 @@
+abc in d.txt
+-from master
